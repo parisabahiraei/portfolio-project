@@ -1,0 +1,19 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;*/
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 96px;
+}
+.hi {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  color: #272142;
+}
+.introduce {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  color: #272142;
+}
